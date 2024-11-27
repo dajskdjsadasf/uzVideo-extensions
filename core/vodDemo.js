@@ -11,7 +11,7 @@ class VodDemo extends WebApiBase {
         /**
          * 网站主页
          **/
-        this.webSite = ''
+        this.webSite = 'aipan.me'
 
         /**
          * 扩展运行标识 ** uzApp 运行时自动赋值，请勿修改 **
